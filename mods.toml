@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="cute_ai"
+version="1.0.0"
+displayName="CUTE AI"
+description='''مكعب مبتسم وذكي يساعدك في استكشاف العالم، جمع الموارد، وإرشادك إلى الهياكل المهمة.'''
